@@ -14,4 +14,4 @@ A beginner-friendly Python CLI game where the user tries to guess a randomly gen
 
 🐍 Pure Python — no external libraries required
 
-👶 Great for beginners to learn loops, conditionals, and user input
+👶 Great for beginners to learn loops, conditionals, and user input.
